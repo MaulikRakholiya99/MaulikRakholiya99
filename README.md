@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on maulikrakholiy9999@gmail.com
+- 📫 reach me on maulikrakholiy9999@gmail.com
 
 <!---
 MaulikRakholiya99/MaulikRakholiya99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
