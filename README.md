@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaulikRakholiya99
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in web developing
+- 🌱 I’m currently learning React and Node 
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me on maulikrakholiy9999@gmail.com
 
